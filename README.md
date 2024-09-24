@@ -7,8 +7,7 @@ This project is a Storage Application built with Node.js and MongoDB. It allows 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/storage-application.git
-   cd storage-application
+   git clone (https://github.com/Asterdegrace/JsProject.git)
 2. **Install dependencies**:
     npm install
 3. **Make sure you have Mongo DB**:
